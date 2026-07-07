@@ -1,4 +1,5 @@
 streamlit
+
 langchain
 langchain-core
 langchain-community
@@ -9,16 +10,17 @@ google-generativeai
 
 sentence-transformers
 transformers
+
 torch
+torchvision
 
 faiss-cpu
 
 pypdf
+
 python-dotenv
 
 numpy
 pandas
-requests
-tiktoken
 Pillow
-watchdog
+requests
